@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hell0 Friends  
+# 👋 Hello Friends  
 **I'm Pravin Deshmukh**  
 🚀 Cloud & DevOps Engineer | AWS SAA-C03 Certified | GenAI Builder  
 🌍 Pune, India 🇮🇳  
