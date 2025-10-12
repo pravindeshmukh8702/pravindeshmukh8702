@@ -1,22 +1,21 @@
 <div align="center">
 
-# 👋 Hello Friends  
-**I'm Pravin Deshmukh**  
-🚀 Cloud & DevOps Engineer | AWS SAA-C03 Certified | GenAI Builder  
-🌍 Pune, India 🇮🇳  
+# 👋 Hi, I'm Pravin Deshmukh
+
+**AWS Certified DevOps Engineer | Cloud Native Specialist | GenAI Builder**  
+📍 Pune, India 🇮🇳
 
 ---
 
 ### 🚀 About Me
-I'm an aspiring **Cloud & DevOps Engineer** passionate about automating deployments and building scalable, production-ready infra.  
-I work with **AWS, Docker, Kubernetes, Terraform, Jenkins**, and **Python FastAPI**.  
-Currently exploring **Generative AI** and **RAG-based systems**.
 
-🔭 Working on: cloud-native + GenAI automation tools  
-🌱 Learning: Platform Engineering & Cloud Security  
-👯 Open to: DevOps + AI infra collaborations  
-💬 Ask me about: AWS, Docker, CI/CD, FastAPI, RAG  
-⚡ Fun fact: I treat infra like code and bots like teammates 😎  
+I'm a **DevOps & Cloud Engineer** passionate for building and automating scalable, production-ready infrastructure on AWS. I specialize in end-to-end CI/CD pipelines, container orchestration with Kubernetes, and Infrastructure as Code.
+
+- 🔭 **Currently Working On:** Cloud-native applications and GenAI-powered automation tools
+- 🌱 **Currently Learning:** Advanced Kubernetes (Service Mesh, Operators) and Cloud Security
+- 💼 **Open to:** DevOps, Cloud Engineering, and Platform Engineering roles
+- 💬 **Ask me about:** AWS, Kubernetes, Terraform, CI/CD, Docker, FastAPI
+- ⚡ **Fun fact:** I believe in treating infrastructure as code and AI as a collaborative partner
 
 </div>
 
@@ -26,36 +25,32 @@ Currently exploring **Generative AI** and **RAG-based systems**.
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /> 
-
 ### ☁️ Cloud & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" title="Ansible" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40" title="ArgoCD" />
+
+### 💻 Programming & Scripting
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+
+### 📊 Monitoring & Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
 
 ### 🧠 GenAI & Tools
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> 
-
-### 🗄️ Databases & Monitoring
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" /> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" title="OpenAI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="40" title="LangChain" />
 
 </div>
 
@@ -63,28 +58,36 @@ Currently exploring **Generative AI** and **RAG-based systems**.
 
 <div align="center">
 
-## 📚 Projects
+## 🚀 Featured Projects
 
-### 🧩 SaraBot – GenAI Research Tool
-Built using **LangChain**, **ChromaDB**, **OpenAI API**, and **FastAPI**.  
-Implements a real-time RAG pipeline for semantic search with source citations.  
-**Stack:** LangChain · FastAPI · ChromaDB · OpenAI API  
-🔗 [Portfolio Link](https://pravindeshmukh8702.github.io/portfolio)
+### 🌍 Wanderlust - Travel Blog (MERN on AWS EKS)
+**Full-stack application demonstrating complete DevOps lifecycle**  
+- Deployed on **AWS EKS** with Docker containerization
+- Automated CI/CD with **Jenkins**, integrating security scans (Trivy) and code quality gates (SonarQube)
+- Implemented **GitOps** with ArgoCD for automated deployments
+- Configured monitoring with **Prometheus/Grafana** and caching with **Redis**
 
----
-
-### 🗒️ Notes App – Full-Stack Deployment
-Deployed a notes app on **AWS EC2** using **Docker** and **Kubernetes**.  
-Automated infra with **Terraform** and **Jenkins CI/CD**.  
-Ensured scalability and zero-downtime releases.  
-**Stack:** AWS · Docker · K8s · Jenkins · Terraform  
+**Tech:** `AWS EKS` `Docker` `Kubernetes` `Jenkins` `ArgoCD` `Prometheus` `Grafana` `Redis`
 
 ---
 
-### 🌍 WanderLust Travel Blog (MERN)
-Full deployment on AWS using **Docker**, **Terraform**, and **Jenkins**.  
-Automated CI/CD pipelines and improved reliability.  
-**Stack:** AWS · Docker · Jenkins · Terraform · MERN  
+### 🤖 SaraBot - GenAI Research Assistant
+**RAG-based question-answering system with source citation**
+- Built RAG pipeline using **LangChain**, **OpenAI API**, and **ChromaDB**
+- Developed backend with **Python FastAPI** and containerized with Docker
+- Deployed on **AWS** with automated scaling and monitoring
+
+**Tech:** `Python` `FastAPI` `LangChain` `OpenAI` `ChromaDB` `Docker` `AWS`
+
+---
+
+### 🗒️ Full-Stack Notes App
+**Cloud-native application with Infrastructure as Code**
+- Automated infrastructure provisioning using **Terraform**
+- Implemented **Kubernetes** orchestration on **AWS EC2**
+- Built **CI/CD pipeline** with Jenkins for zero-downtime deployments
+
+**Tech:** `Terraform` `Kubernetes` `Docker` `Jenkins` `AWS`
 
 </div>
 
@@ -92,11 +95,11 @@ Automated CI/CD pipelines and improved reliability.
 
 <div align="center">
 
-## 🏅 Certifications
-🥇 AWS Certified Solutions Architect – Associate (SAA-C03)  
-🎓 Generative AI – The Way of Life (Analytics Vidhya)  
-🧠 Prompt Engineering for LLMs (Analytics Vidhya)  
-⚙️ Build Product 10x Faster with GenAI (Analytics Vidhya)  
+## 📜 Certifications
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- **Generative AI – The Way of Life** - Analytics Vidhya
+- **Prompt Engineering for LLMs** - Analytics Vidhya
+- **Amazon Q Developer Fundamentals** - AWS
 
 </div>
 
@@ -104,20 +107,12 @@ Automated CI/CD pipelines and improved reliability.
 
 <div align="center">
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=pravindeshmukh8702&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pravindeshmukh8702&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravindeshmukh8702&layout=compact&theme=tokyonight" />
+## 📊 GitHub Analytics
 
----
+| <img src="https://github-readme-stats.vercel.app/api?username=pravindeshmukh8702&show_icons=true&theme=tokyonight&hide_border=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravindeshmukh8702&theme=tokyonight&hide_border=true" /> |
+| ------------- | ------------- |
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=pravindeshmukh8702&theme=tokyonight&margin-w=10" />
-
----
-
-## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pravindeshmukh8702&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravindeshmukh8702&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -125,15 +120,15 @@ Automated CI/CD pipelines and improved reliability.
 
 <div align="center">
 
-## 🌐 Connect With Me  
-<a href="https://pravindeshmukh8702.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/pravindeshmukh8702/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pravindeshmukh8702@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/pravindeshmukh8702"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://pravindeshmukh8702.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravindeshmukh8702/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pravindeshmukh8702@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pravindeshmukh8702)
 
 ---
 
-💡 *"Automate everything you can — the future runs on scripts and AI."*  
-👀 Profile Views • ⭐ GitHub Followers  
+**"Infrastructure as code isn't just a practice—it's the foundation of reliable, scalable systems."**
 
 </div>
