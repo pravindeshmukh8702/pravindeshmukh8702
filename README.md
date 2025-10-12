@@ -52,7 +52,7 @@ I'm a **DevOps & Cloud Engineer** passionate for building and automating scalabl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="45" title="Nginx" />
 
 ### 🧠 GenAI & ML
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" width="45" title="LangChain" />
+<img src="https://cdn.simpleicons.org/langchain/##1C3C3C" width="45" title="LangChain" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="45" title="OpenAI" />
