@@ -2,21 +2,22 @@
 
 # 👋 Hi, I'm Pravin Deshmukh
 
-**AWS Certified DevOps Engineer | Cloud Native Specialist | GenAI Builder**  
+**AWS Certified Solutions Architect | DevOps Engineer | Cloud Native Specialist**  
 📍 Pune, India 🇮🇳
 
 ---
 
 ### 🚀 About Me
 
-I'm a **DevOps & Cloud Engineer** passionate for building and automating scalable, production-ready infrastructure on AWS. I specialize in end-to-end CI/CD pipelines, container orchestration with Kubernetes, and Infrastructure as Code.
+I am a results-driven **DevOps Engineer** with an **AWS Solutions Architect certification** and a proven track record of designing, automating, and deploying scalable cloud-native infrastructure. I specialize in end-to-end **CI/CD pipelines, container orchestration (Kubernetes), and Infrastructure as Code (Terraform).**
 
-- 🔭 **Currently Working On:** Cloud-native applications and GenAI-powered automation tools
-- 🌱 **Currently Learning:** Advanced Kubernetes (Service Mesh, Operators) and Cloud Security
-- 💼 **Open to:** DevOps, Cloud Engineering, and Platform Engineering roles
-- 💬 **Ask me about:** AWS, Kubernetes, Terraform, CI/CD, Docker, FastAPI
-- ⚡ **Fun fact:** I believe in treating infrastructure as code and AI as a collaborative partner
+My projects demonstrate a strong ability to improve deployment efficiency by 60% and ensure 99% uptime for production applications. I am passionate about building robust, secure, and automated systems in the cloud.
 
+🔭 **Currently Working On:** Enhancing my GenAI-powered automation tools and deepening my Kubernetes expertise.
+🌱 **Currently Learning:** Advanced Kubernetes (Service Mesh, Operators), AWS Security Speciality, and Crossplane
+💼 **Open to:** DevOps Engineer, Cloud Engineer, and Site Reliability Engineer (SRE) roles.
+💬 **Ask me about:** AWS, Kubernetes, Terraform, CI/CD, Docker, and Python.
+⚡ **Fun Fact:** I automate not just infrastructure, but also my coffee routine!
 </div>
 
 ---
@@ -65,12 +66,13 @@ I'm a **DevOps & Cloud Engineer** passionate for building and automating scalabl
 
 ## 🚀 Featured Projects
 
-### 🌍 Wanderlust - Travel Blog (MERN on AWS EKS)
-**Full-stack application demonstrating complete DevOps lifecycle**  
-- Deployed on **AWS EKS** with Docker containerization
-- Automated CI/CD with **Jenkins**, integrating security scans (Trivy) and code quality gates (SonarQube)
-- Implemented **GitOps** with ArgoCD for automated deployments
-- Configured monitoring with **Prometheus/Grafana** and caching with **Redis**
+### 🌍 Wanderlust - Travel Blog | End-to-End DevOps on AWS EKS
+**A production-grade deployment of a MERN stack application demonstrating a complete DevOps lifecycle.**  
+**Orchestration:** Deployed on AWS EKS with Docker containerization for scalability.
+**GitOps & CI/CD:** Implemented an automated pipeline using Jenkins and ArgoCD for GitOps workflows, reducing deployment time by 66%.
+**Infrastructure as Code:** Managed entire cloud infrastructure using Terraform.
+**Monitoring & Observability:** Configured Prometheus and Grafana for monitoring, and CloudWatch for logs.
+**Security & Quality:** Integrated Trivy for vulnerability scanning and SonarQube for code quality gates.
 
 **Tech:** `AWS EKS` `Docker` `Kubernetes` `Jenkins` `ArgoCD` `Prometheus` `Grafana` `Redis`
 
