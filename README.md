@@ -14,9 +14,13 @@ I am a results-driven **DevOps Engineer** with an **AWS Solutions Architect cert
 My projects demonstrate a strong ability to improve deployment efficiency by 60% and ensure 99% uptime for production applications. I am passionate about building robust, secure, and automated systems in the cloud.
 
 🔭 **Currently Working On:** Enhancing my GenAI-powered automation tools and deepening my Kubernetes expertise.
+
 🌱 **Currently Learning:** Advanced Kubernetes (Service Mesh, Operators), AWS Security Speciality, and Crossplane
+
 💼 **Open to:** DevOps Engineer, Cloud Engineer, and Site Reliability Engineer (SRE) roles.
+
 💬 **Ask me about:** AWS, Kubernetes, Terraform, CI/CD, Docker, and Python.
+
 ⚡ **Fun Fact:** I automate not just infrastructure, but also my coffee routine!
 </div>
 
