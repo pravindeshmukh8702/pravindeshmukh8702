@@ -71,11 +71,17 @@ My projects demonstrate a strong ability to improve deployment efficiency by 60%
 ## 🚀 Featured Projects
 
 ### 🌍 Wanderlust - Travel Blog | End-to-End DevOps on AWS EKS
+
 **A production-grade deployment of a MERN stack application demonstrating a complete DevOps lifecycle.**  
+
 **Orchestration:** Deployed on AWS EKS with Docker containerization for scalability.
+
 **GitOps & CI/CD:** Implemented an automated pipeline using Jenkins and ArgoCD for GitOps workflows, reducing deployment time by 66%.
+
 **Infrastructure as Code:** Managed entire cloud infrastructure using Terraform.
+
 **Monitoring & Observability:** Configured Prometheus and Grafana for monitoring, and CloudWatch for logs.
+
 **Security & Quality:** Integrated Trivy for vulnerability scanning and SonarQube for code quality gates.
 
 **Tech:** `AWS EKS` `Docker` `Kubernetes` `Jenkins` `ArgoCD` `Prometheus` `Grafana` `Redis`
@@ -84,8 +90,11 @@ My projects demonstrate a strong ability to improve deployment efficiency by 60%
 
 ### 🤖 SaraBot - GenAI Research Assistant
 **RAG-based question-answering system with source citation**
+
 - Built RAG pipeline using **LangChain**, **OpenAI API**, and **ChromaDB**
+
 - Developed backend with **Python FastAPI** and containerized with Docker
+
 - Deployed on **AWS** with automated scaling and monitoring
 
 **Tech:** `Python` `FastAPI` `LangChain` `OpenAI` `ChromaDB` `Docker` `AWS`
@@ -94,8 +103,11 @@ My projects demonstrate a strong ability to improve deployment efficiency by 60%
 
 ### 🗒️ Full-Stack Notes App
 **Cloud-native application with Infrastructure as Code**
+
 - Automated infrastructure provisioning using **Terraform**
+
 - Implemented **Kubernetes** orchestration on **AWS EC2**
+
 - Built **CI/CD pipeline** with Jenkins for zero-downtime deployments
 
 **Tech:** `Terraform` `Kubernetes` `Docker` `Jenkins` `AWS`
