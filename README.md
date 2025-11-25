@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pravin Deshmukh
 
-**DevOps Engineer | AWS Solutions Architect | 2+ Years Experience**  
+**DevOps Engineer | AWS Solutions Architect**  
 📍 Pune, India 🇮🇳
 
 ---
